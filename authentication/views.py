@@ -76,6 +76,7 @@ class LoginAPIView(APIView):
                 },
             }
         )
+        
 
 class ForgotPasswordAPIView(APIView):
 
