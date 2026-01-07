@@ -33,3 +33,4 @@ def login_view(request):
         {"message": "Only POST method allowed"},
         status=405
     )
+
